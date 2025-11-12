@@ -1,0 +1,13 @@
+﻿# Ignore compiled files
+/out/
+*.class
+
+# Ignore IDE / system files
+*.iml
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.bak
