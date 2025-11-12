@@ -87,10 +87,9 @@ java -cp $runCp gui.GuiApp
 
 ## 📸 Screenshots 
 
-| Candlestick Chart                                                             | Trading Controls                                                              |
-| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| <img width="953" height="747" alt="Screenshot 2025-11-13 004404" src="https://github.com/user-attachments/assets/1a72e25d-9ed6-4dd9-9fa8-e824de4a9068" />||<img width="1472" height="955" alt="Screenshot 2025-11-13 004423" src="https://github.com/user-attachments/assets/e3abe426-4515-435a-ac0b-7458d8f309a7" />|
-
+| Candlestick Chart | Trading Controls |
+| ----------------- | ---------------- |
+| <img width="953" height="747" alt="Screenshot 2025-11-13 004404" src="https://github.com/user-attachments/assets/1a72e25d-9ed6-4dd9-9fa8-e824de4a9068" /> | <img width="1472" height="955" alt="Screenshot 2025-11-13 004423" src="https://github.com/user-attachments/assets/e3abe426-4515-435a-ac0b-7458d8f309a7" /> |
 ---
 
 ## 📊 How Prices Are Generated
